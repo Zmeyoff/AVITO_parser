@@ -1,0 +1,11 @@
+# IPython Notebook
+.ipynb_checkpoints
+
+# pytest cache
+.pytest_cache 
+__pycache__ 
+
+#coverage utility files
+.coverage
+coverage.xml
+
